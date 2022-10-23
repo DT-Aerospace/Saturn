@@ -1,8 +1,5 @@
 site_name: Saturn Avionics
 repo_url: https://github.com/DT-Aerospace/Saturn
 
-nav:
-    - 'index.md'
-    
 theme:
     name: readthedocs
