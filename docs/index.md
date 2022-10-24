@@ -1,5 +1,0 @@
-*****
-Saturn - Avionics Unit
-*****
-
-
